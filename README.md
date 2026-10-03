@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of halimjr/lang-bangla.** Not for installation: use [Packagist](https://packagist.org/packages/halimjr/lang-bangla) or the [upstream repository](https://github.com/halimjr/lang-bangla).
 
-**0** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/halimjr-lang-bangla/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`v0.0.2`](https://github.com/flarchive/halimjr-lang-bangla/tree/archive/v0.0.2) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2022-07-28 | `^1.0.0` | [Browse](https://github.com/flarchive/halimjr-lang-bangla/tree/archive/v0.0.1) |
+| `v0.0.2` | 2022-07-28 | `^1.0.0` | [Browse](https://github.com/flarchive/halimjr-lang-bangla/tree/archive/v0.0.2) |
 
 Catalog entry: [packages/halimjr-lang-bangla.json](https://github.com/flarchive/archive-index/blob/main/packages/halimjr-lang-bangla.json)
 
